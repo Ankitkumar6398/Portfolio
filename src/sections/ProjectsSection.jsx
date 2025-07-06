@@ -38,8 +38,8 @@ const projects = [
       'A chatting app to help users chat with each other.',
     tech: ['React', 'MongoDB', 'Node.js'],
     img: (images) => images.project4Img,
-    link: '#',
-    linkLabel: 'https://chat-application-ankit-kumars-projects-cd97ef16.vercel.app/',
+    link: 'https://chat-application-ankit-kumars-projects-cd97ef16.vercel.app/',
+    linkLabel: 'Visit Project',
   },
 ];
 
