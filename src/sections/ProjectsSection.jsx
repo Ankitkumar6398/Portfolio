@@ -33,13 +33,13 @@ const projects = [
     linkLabel: 'View GitHub',
   },
   {
-    title: 'Task Management App',
+    title: 'Chatting App',
     description:
-      'A productivity tool to help users organize tasks, set deadlines, and track progress.',
-    tech: ['React', 'Firebase', 'MUI'],
+      'A chatting app to help users chat with each other.',
+    tech: ['React', 'MongoDB', 'Node.js'],
     img: (images) => images.project4Img,
     link: '#',
-    linkLabel: 'Coming Soon',
+    linkLabel: 'https://chat-application-ankit-kumars-projects-cd97ef16.vercel.app/',
   },
 ];
 
