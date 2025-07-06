@@ -30,7 +30,7 @@ const projects = [
     tech: ['Node.js', 'Express', 'MongoDB'],
     img: project3Img,
     link: '#',
-    linkLabel: 'View GitHub',
+    linkLabel: 'Coming Soon',
   },
   {
     title: 'Chatting App',
