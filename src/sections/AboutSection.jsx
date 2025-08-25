@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImg from '../assets/IMG_20250825_171000.jpg';
+import profileImg from '../assets/IMG-20241020-WA0005.jpg'
 
 const TECH_STACK = ['Java', 'HTML', 'CSS', 'JavaScript', 'React', 'Node.js', 'MongoDB'];
 const TOOLS = ['GitHub', 'IntelliJ IDEA'];
